@@ -1,0 +1,15 @@
+C:\Users\thanh\Downloads\Laptrinhmangcanban\Baithuchanh1\Baithuchanh1\obj\Debug\Baithuchanh1.csproj.AssemblyReference.cache
+C:\Users\thanh\Downloads\Laptrinhmangcanban\Baithuchanh1\Baithuchanh1\obj\Debug\Baithuchanh1.csproj.SuggestedBindingRedirects.cache
+C:\Users\thanh\Downloads\Laptrinhmangcanban\Baithuchanh1\Baithuchanh1\obj\Debug\Baithuchanh1.Form1.resources
+C:\Users\thanh\Downloads\Laptrinhmangcanban\Baithuchanh1\Baithuchanh1\obj\Debug\Baithuchanh1.Properties.Resources.resources
+C:\Users\thanh\Downloads\Laptrinhmangcanban\Baithuchanh1\Baithuchanh1\obj\Debug\Baithuchanh1.csproj.GenerateResource.cache
+C:\Users\thanh\Downloads\Laptrinhmangcanban\Baithuchanh1\Baithuchanh1\obj\Debug\Baithuchanh1.csproj.CoreCompileInputs.cache
+C:\Users\thanh\Downloads\Laptrinhmangcanban\Baithuchanh1\Baithuchanh1\bin\Debug\Baithuchanh1.exe.config
+C:\Users\thanh\Downloads\Laptrinhmangcanban\Baithuchanh1\Baithuchanh1\bin\Debug\Baithuchanh1.exe
+C:\Users\thanh\Downloads\Laptrinhmangcanban\Baithuchanh1\Baithuchanh1\bin\Debug\Baithuchanh1.pdb
+C:\Users\thanh\Downloads\Laptrinhmangcanban\Baithuchanh1\Baithuchanh1\obj\Debug\Baithuchanh1.exe
+C:\Users\thanh\Downloads\Laptrinhmangcanban\Baithuchanh1\Baithuchanh1\obj\Debug\Baithuchanh1.pdb
+C:\Users\thanh\Downloads\Laptrinhmangcanban\Baithuchanh1\Baithuchanh1\obj\Debug\Baithuchanh1.Form2.resources
+C:\Users\thanh\Downloads\Laptrinhmangcanban\Baithuchanh1\Baithuchanh1\obj\Debug\Baithuchanh1.Form3.resources
+C:\Users\thanh\Downloads\Laptrinhmangcanban\Baithuchanh1\Baithuchanh1\obj\Debug\Baithuchanh1.Form4.resources
+C:\Users\thanh\Downloads\Laptrinhmangcanban\Baithuchanh1\Baithuchanh1\obj\Debug\Baithuchanh1.Form5.resources
